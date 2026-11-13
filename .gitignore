@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+machine_temperature.csv
+labels.json
+scored.csv
+scored_iso.csv
